@@ -14,7 +14,7 @@ I am a dedicated and communicative developer with a passion for continuous learn
 
 ### Independent Development Projects (2021 – 2023)
 - 💻 Proficient in C# and experienced in Java, Python, C, and C++.
-- 🛠️ Technologies: ASP.NET Core, CSS, HTML, SQL, Entity Framework, REST API, Swagger, Git.
+- 🛠️ Technologies: ASP.NET Core, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
 
 ### Managing a Theater Group (2022 – 2023)
 - 🎭 Led the Nullpont Theater Workshop team in producing a successful production.
