@@ -7,8 +7,8 @@ I am a dedicated and communicative developer with a passion for continuous learn
 
 ## Experience
 
-### Bosch Robot-Building Team Competition (2023)
-- 🏆 Third place win with my team.
+### Bosch Robot-Building Team Competition (2023-2024)
+- 🏆 Finished in third place two consecutive years with my team.
 - 👨‍💻 Led design, execution, and programming of an Arduino-based robot.
 - 🚀 Strengthened skills in teamwork, project management, and technical proficiency.
 
