@@ -13,7 +13,7 @@ I am a dedicated and communicative developer with a passion for continuous learn
 - 🚀 Strengthened skills in teamwork, project management, and technical proficiency.
 -  [www.teamjerry.hu](https://teamjerry.hu) - check out the website I made for our team!
 
-### Development Projects (2021 – 2023)
+### Development Projects (2021 – 2024)
 - 💻 Proficient in C# and experienced in Java, Python, C, and C++.
 - 🛠️ Technologies: ASP.NET Core, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
 - 🚗 In the [Automated Car Simulation Project](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A), I worked with multiple teams using agile methodology to develop a program simulating real driving and ADAS.
