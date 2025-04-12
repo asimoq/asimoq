@@ -23,6 +23,15 @@ I am a dedicated and communicative developer with a passion for continuous learn
 - 🛠️ Technologies: ASP.NET Core, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
 - 🚗 In the [Automated Car Simulation Project](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A), I worked with multiple teams using agile methodology to develop a program simulating real driving and ADAS.
 
+### Damocles Kft. – IT Operations & Automation Specialist (2024 – Present)
+- 🖥️ Working in a small but dynamic IT services company with a focus on flexibility, innovation, and collaboration.
+- 🔧 Handling general IT operations: network monitoring, server and workstation maintenance, remote support, system installations, and configuration tasks.
+- 📦 Involved in **automation workflow development** using **PHP**, **JavaScript**, and **PowerShell** to streamline client-side operations.
+- 🐳 Used **Docker** for containerization and assisted in the development of automation and AI tools.
+- ☁️ Exposure to cloud platforms like **Azure**, and familiarity with networking tools.
+- 🛠️ Daily use of the **Atlassian stack** (Jira, Confluence, Bitbucket) and collaborative workflows.
+- 🤝 Strengthened troubleshooting skills, cross-functional communication, and gained experience in a fast-paced, client-focused environment.
+
 ### Managing a Theater Group (2022 – 2023)
 - 🎭 Led the Nullpont Theater Workshop team in producing a successful production.
 - 💡 Involved in project ideation, writing, directing, and performance.
