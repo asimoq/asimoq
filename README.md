@@ -50,6 +50,4 @@ I am a dedicated and communicative developer with a passion for continuous learn
 - 🌐 **LinkedIn**: [linkedin.com/in/szczuka-bende/](https://www.linkedin.com/in/szczuka-bende/)
 - 💻 **GitHub**: [github.com/asimoq/](https://github.com/asimoq/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimoq&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
