@@ -7,11 +7,16 @@ I am a dedicated and communicative developer with a passion for continuous learn
 
 ## Experience
 
-### Bosch Robot-Building Team Competition (2023-2024)
-- 🏆 Finished in third place two consecutive years with my team.
-- 👨‍💻 Led design, execution, and programming of an Arduino-based robot.
-- 🚀 Strengthened skills in teamwork, project management, and technical proficiency.
--  [www.teamjerry.hu](https://teamjerry.hu) - check out the website I made for our team!
+### Bosch Robot-Building Team Competition (2023–2025)
+- 🏆 **2023**: Placed **3rd overall** with an **Arduino-based** maze-solving robot.  
+  🔗 [GitHub Repository](https://github.com/asimoq/ArduinoMazeSolvingRobot)
+- 🏆 **2024**: Again secured **3rd place overall** and received the **Mechanical Design Special Award** with our enhanced **Arduino-based** robot.  
+  🔗 [GitHub Repository](https://github.com/asimoq/ArduinoMazeSolvingRobot)
+- 🥇 **2025**: Took **1st place** in both **Sprint** and **Overall** categories with an **ESP32-based** robot, featuring a custom **web interface** for **monitoring** and **parameter tuning**.  
+  🔗 [GitHub Repository](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
+- 👨‍💻 Led the design, mechanical implementation, and programming efforts across all competition years.
+- 🚀 Strengthened skills in embedded systems, robotics, real-time diagnostics, teamwork, and end-to-end project development.
+- 🌐 [www.teamjerry.hu](https://teamjerry.hu) – Check out the website I built for our team!
 
 ### Development Projects (2021 – 2024)
 - 💻 Proficient in C# and experienced in Java, Python, C, and C++.
